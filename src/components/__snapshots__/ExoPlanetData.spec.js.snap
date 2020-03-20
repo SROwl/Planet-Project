@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExoPlanetData.vue HTML Renders 1`] = `
+<div
+  class="data"
+  id="ExoPlanetData"
+>
+  <div
+    class="loader"
+  >
+    
+      loading
+    
+  </div>
+   
+  <div
+    class="data__facts col"
+  >
+    <div
+      class="data__facts-title"
+    >
+      Facts
+    </div>
+     
+    <div
+      class="data__facts-hottest col"
+    >
+      <div
+        class="data-title"
+      >
+        The Hottest Star
+      </div>
+       
+      <div
+        class="data-planet"
+      >
+        
+      </div>
+       
+      <div
+        class="hottest__temp"
+      >
+        k
+      </div>
+    </div>
+     
+    <div
+      class="data__facts-orphans col"
+    >
+      <div
+        class="data-title"
+      >
+        Orphan Planets
+      </div>
+       
+      <div
+        class="data-planet"
+      >
+        
+      </div>
+    </div>
+  </div>
+   
+  <div
+    class="data__tl"
+  >
+    <ul
+      class="col"
+    />
+  </div>
+</div>
+`;
